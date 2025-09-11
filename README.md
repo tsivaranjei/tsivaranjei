@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi 👋, I'm Sivaranjei Thambipillai 🤗
+MSc, BSc in IT - University of Colombo, Sri Lanka
 
-<!--
-**tsivaranjei/tsivaranjei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">🛠️ Tech stack:</h3>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=php,py,r,java,mysql,github,wordpress,selenium,laravel,ai,stackoverflow,jquery,html,css,js,git,vscode,pycharm,phpstorm,idea,eclipse,ps,powershell,windows,linux,ubuntu)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Let's Connect:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sivaranjei-thambipillai/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ST-Library" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/>
+  </a>
+</p>
