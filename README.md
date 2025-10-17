@@ -25,6 +25,7 @@ MSc, BSc in IT - University of Colombo, Sri Lanka
 [![scholar](https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark)](https://scholar.google.com/citations?user=j7Huca0AAAAJ&hl=en)
 [![researchgate](https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark)](https://www.researchgate.net/profile/Sivaranjei-Thambipillai)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/sivaranjei-thambipillai)
+[![orcid](https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark)](https://orcid.org/0009-0005-3318-1375)
 [![github](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/tsivaranjei/)
 [![blogspot](https://skillicons.dev/icons?i=html&theme=dark)](https://tsivaranj.blogspot.com/)
 [![facebook](https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=dark)](https://www.facebook.com/sivaranjei.thambipillai/)
