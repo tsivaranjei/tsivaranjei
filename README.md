@@ -68,7 +68,7 @@ MSc, BSc in IT - University of Colombo, Sri Lanka
 
 <br><br>
 ## Connect with me
-<p align="left" id="contact">
+<p align="left">
 <a href = "https://scholar.google.com/citations?user=j7Huca0AAAAJ&hl=en"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href = "https://www.researchgate.net/profile/Sivaranjei-Thambipillai"><img src="https://img.icons8.com/fluent/48/000000/researchgate.png"/></a>
 <a href = "https://www.linkedin.com/in/sivaranjei-thambipillai-8ba754243"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
