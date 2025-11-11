@@ -2,7 +2,7 @@
 MSc in IT | BSc in IT | Systems Analyst | Researcher | Software Engineering | Computer Science - University of Colombo, Sri Lanka
 
 ## 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsivaranjei&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="tsivaranjei"/></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tsivaranjei&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="tsivaranjei"/></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsivaranjei&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="tsivaranjei"/></p><br>
 
@@ -34,6 +34,7 @@ MSc in IT | BSc in IT | Systems Analyst | Researcher | Software Engineering | Co
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white "CSS")
 
+![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white "Moodle")
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white "WordPress")
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white "Joomla")
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white "CodeIgniter")
@@ -59,8 +60,8 @@ MSc in IT | BSc in IT | Systems Analyst | Researcher | Software Engineering | Co
 
 ### ☃️ My Learning Resources
 ![Stack Overflow](https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white "Stack Overflow")
-![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white "Youtube")
 ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white "Google")
+![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white "Youtube")
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white "GitHub")
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white "OpenAI")
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white "GitHub Copilot")
