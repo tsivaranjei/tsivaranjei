@@ -20,11 +20,12 @@ MSc, BSc in IT - University of Colombo, Sri Lanka
 ![Java](https://img.shields.io/badge/Java-777BB4?style=for-the-badge&logo=java&logoColor=white "Java")
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white "R")
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white "C++")
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=r&logoColor=white "C")
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white "C")
+![VB.Net](https://img.shields.io/badge/VB.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white "VB.Net")
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
-![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white "PhpMyAdmin")
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white "XAMPP")
+![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white "PhpMyAdmin")
 
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white "JSON")
@@ -33,19 +34,19 @@ MSc, BSc in IT - University of Colombo, Sri Lanka
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white "CSS")
 
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white "CodeIgniter")
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white "Joomla")
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white "WordPress")
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white "CodeIgniter")
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white "Jira")
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white "Selenium")
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white "PyCharm")
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white "PhpStorm")
-![Intellij IDEA](https://img.shields.io/badge/IntellijIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white "Intellij IDEA")
+![Intellij IDEA](https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white "Intellij IDEA")
 ![Eclipse IDE](https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white "Eclipse IDE")
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white "Google Colab")
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white "Google Colab")
 
 
 ### ⭕ Operating Systems
@@ -60,7 +61,7 @@ MSc, BSc in IT - University of Colombo, Sri Lanka
 ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white "Google")
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white "OpenAI")
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2e?style=for-the-badge&logo=coursera&logoColor=white "Coursera")
-![GitHub Copilot](https://img.shields.io/badge/GitHubCopilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white "GitHub Copilot")
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white "GitHub Copilot")
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white "Google Gemini")
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white "GitHub")
 
