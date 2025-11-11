@@ -14,7 +14,7 @@ MSc in IT | BSc in IT | Systems Analyst | Researcher | Software Engineering | Co
 <p align="left"><a href="https://github.com/tsivaranjei/"><img src="https://github-profile-trophy.vercel.app/?username=tsivaranjei&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="tsivaranjei" /></a></p><br>
 
 
-### 🕸️ Software Development
+### 🕸️ Software Development and Tools
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python")
 ![Java](https://img.shields.io/badge/Java-777BB4?style=for-the-badge&logo=java&logoColor=white "Java")
@@ -37,18 +37,18 @@ MSc in IT | BSc in IT | Systems Analyst | Researcher | Software Engineering | Co
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white "WordPress")
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white "Joomla")
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white "CodeIgniter")
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white "Selenium")
-![SonarQube Cloud](https://img.shields.io/badge/SonarQube-43B02A?style=for-the-badge&logo=sonarqubecloud&logoColor=white "SonarQube Cloud")
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white "GitHub")
+![SonarQube Cloud](https://img.shields.io/badge/SonarQube-43B02A?style=for-the-badge&logo=sonarqubecloud&logoColor=white "SonarQube Cloud")
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white "Jira")
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white "Selenium")
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white "PyCharm")
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white "PhpStorm")
 ![Intellij IDEA](https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white "Intellij IDEA")
 ![Eclipse IDE](https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white "Eclipse IDE")
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white "Google Colab")
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
 ### ⭕ Operating Systems
@@ -57,15 +57,15 @@ MSc in IT | BSc in IT | Systems Analyst | Researcher | Software Engineering | Co
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white "Linux")
 
 
-### ☃️ Learning Resources
+### ☃️ My Learning Resources
 ![Stack Overflow](https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white "Stack Overflow")
 ![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white "Youtube")
 ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white "Google")
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white "GitHub")
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white "OpenAI")
-![Coursera](https://img.shields.io/badge/Coursera-0056D2e?style=for-the-badge&logo=coursera&logoColor=white "Coursera")
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white "GitHub Copilot")
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white "Google Gemini")
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white "GitHub")
+![Coursera](https://img.shields.io/badge/Coursera-0056D2e?style=for-the-badge&logo=coursera&logoColor=white "Coursera")
 <br><br>
 
 
