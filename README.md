@@ -1,5 +1,5 @@
-## Hi 👋, I'm Sivaranjei Thambipillai 🤗
-MSc, BSc in IT - University of Colombo, Sri Lanka
+## Hi, I'm Sivaranjei Thambipillai
+MSc in IT | BSc in IT | Systems Analyst | Researcher | Software Engineering | Computer Science - University of Colombo, Sri Lanka
 
 ## 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsivaranjei&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="tsivaranjei"/></p><br>
@@ -11,7 +11,7 @@ MSc, BSc in IT - University of Colombo, Sri Lanka
 
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/tsivaranjei/"><img src="https://github-profile-trophy.vercel.app/?username=tsivaranjei&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="tsivaranjei" /></a> </p><br>
+<p align="left"><a href="https://github.com/tsivaranjei/"><img src="https://github-profile-trophy.vercel.app/?username=tsivaranjei&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="tsivaranjei" /></a></p><br>
 
 
 ### 🕸️ Software Development
@@ -34,11 +34,13 @@ MSc, BSc in IT - University of Colombo, Sri Lanka
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white "CSS")
 
-![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white "Joomla")
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white "WordPress")
+![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white "Joomla")
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white "CodeIgniter")
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white "Jira")
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white "Selenium")
+![SonarQube Cloud](https://img.shields.io/badge/SonarQube-43B02A?style=for-the-badge&logo=sonarqubecloud&logoColor=white "SonarQube Cloud")
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white "GitHub")
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white "Jira")
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white "PyCharm")
@@ -64,9 +66,9 @@ MSc, BSc in IT - University of Colombo, Sri Lanka
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white "GitHub Copilot")
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white "Google Gemini")
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white "GitHub")
-
-
 <br><br>
+
+
 ## Connect with me
 <p align="left">
 <a href = "https://scholar.google.com/citations?user=j7Huca0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>    
@@ -79,8 +81,7 @@ MSc, BSc in IT - University of Colombo, Sri Lanka
 <a href = "https://www.facebook.com/sivaranjei.thambipillai/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href = "https://www.instagram.com/sivaranjei-thambipillai/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href = "https://www.youtube.com/@ST-Library"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p><br>
-
+</p>
 
 ### ❤ Views and Followers
 #### Thanks for checking out my GitHub Profile! 🙏
