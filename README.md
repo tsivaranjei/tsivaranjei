@@ -88,7 +88,4 @@ MSc in IT | BSc in IT | Systems Analyst | Researcher | Software Engineering | Co
 #### Thanks for checking out my GitHub Profile! 🙏
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 ![](https://img.shields.io/github/followers/tsivaranjei?logo=github&style=for-the-badge)
-<a href="https://github.com/tsivaranjei/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=tsivaranjei&style=for-the-badge"></a>
-
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/tsivaranjei/github-profile-views-counter
+![](https://komarev.com/ghpvc/?username=tsivaranjei&style=for-the-badge)
