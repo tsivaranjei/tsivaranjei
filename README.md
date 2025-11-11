@@ -16,77 +16,76 @@ MSc, BSc in IT - University of Colombo, Sri Lanka
 
 ### 🕸️ Software Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python")
 ![Java](https://img.shields.io/badge/Java-777BB4?style=for-the-badge&logo=java&logoColor=white "Java")
-![VisualBasic](https://img.shields.io/badge/visualbasic-0769AD?style=for-the-badge&logo=visualbasic&logoColor=white "Visual Basic")
-![R](https://img.shields.io/badge/R-777BB4?style=for-the-badge&logo=r&logoColor=white "R")
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white "R")
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white "C++")
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=r&logoColor=white "C")
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
+![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white "PhpMyAdmin")
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white "XAMPP")
+
+![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white "JSON")
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")
-![Json](https://img.shields.io/badge/json-0769AD?style=for-the-badge&logo=json&logoColor=white "Json")
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")
-![Joomla](https://img.shields.io/badge/joomla-0769AD?style=for-the-badge&logo=joomla&logoColor=white "Joomla")
-![wordpress](https://img.shields.io/badge/wordpress-0769AD?style=for-the-badge&logo=wordpress&logoColor=white "wordpress")
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white "CSS")
 
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white "CodeIgniter")
+![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white "Joomla")
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white "WordPress")
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white "Jira")
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white "Selenium")
 
-### 📄 Integrated Development Environments (IDEs) and Frameworks
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
-![Pycharm](https://img.shields.io/badge/pycharm.svg?style=for-the-badge&logo=pycharm&logoColor=white "Pycharm")
-![Phpstorm](https://img.shields.io/badge/phpstorm.svg?style=for-the-badge&logo=phpstorm&logoColor=white "Phpstorm")
-![Intelli IDEA](https://img.shields.io/badge/idea.svg?style=for-the-badge&logo=idea&logoColor=white "Intelli IDEA")
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white "Visual Studio")
-![Eclipse](https://img.shields.io/badge/eclipse.svg?style=for-the-badge&logo=eclipse&logoColor=white "Eclipse")
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/colab.svg?style=for-the-badge&logo=colab&logoColor=white "Colab")
-
-![CodeIgniter](https://img.shields.io/badge/codeigniter-0769AD?style=for-the-badge&logo=codeigniter&logoColor=white "CodeIgniter")
-![Jira](https://img.shields.io/badge/jira-0769AD?style=for-the-badge&logo=jira&logoColor=white "Jira")
-![Selenium](https://img.shields.io/badge/selenium-0769AD?style=for-the-badge&logo=selenium&logoColor=white "Selenium")
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white "PyCharm")
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white "PhpStorm")
+![Intellij IDEA](https://img.shields.io/badge/IntellijIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white "Intellij IDEA")
+![Eclipse IDE](https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white "Eclipse IDE")
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white "Google Colab")
 
 
 ### ⭕ Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![linux](https://img.shields.io/badge/linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows")
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white "Ubuntu")
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white "Linux")
 
 
 ### ☃️ Learning Resources
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![ChatGpt](https://img.shields.io/badge/chatgpt?style=for-the-badge&logo=chatgpt&logoColor=white)
-![Coursera](https://img.shields.io/badge/coursera-317cee?style=for-the-badge&logo=coursera&logoColor=white)
-![Copilot](https://img.shields.io/badge/copilot?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Gemini](https://img.shields.io/badge/gemini?style=for-the-badge&logo=gemini&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Codecademy](https://img.shields.io/badge/Codecademy-000000.svg?&style=for-the-badge&logo=Codecademy&logoColor=green)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+![Stack Overflow](https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white "Stack Overflow")
+![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white "Youtube")
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white "Google")
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white "OpenAI")
+![Coursera](https://img.shields.io/badge/Coursera-0056D2e?style=for-the-badge&logo=coursera&logoColor=white "Coursera")
+![GitHub Copilot](https://img.shields.io/badge/GitHubCopilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white "GitHub Copilot")
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white "Google Gemini")
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white "GitHub")
 
 
 <br><br>
 ## Connect with me
 <p align="left">
-<a href = "https://scholar.google.com/citations?user=j7Huca0AAAAJ&hl=en"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<a href = "https://www.researchgate.net/profile/Sivaranjei-Thambipillai"><img src="https://img.icons8.com/fluent/48/000000/researchgate.png"/></a>
-<a href = "https://www.linkedin.com/in/sivaranjei-thambipillai-8ba754243"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://orcid.org/0009-0005-3318-1375"><img src="https://img.icons8.com/fluent/48/000000/orcid.png"/></a>
-<a href = "https://github.com/tsivaranjei"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-<a href = "https://tsivaranj.blogspot.com"><img src="https://img.icons8.com/fluent/48/000000/blogspot.png"/></a>
-<a href = "https://www.facebook.com/sivaranjei.thambipillai/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/sivaranjei-thambipillai/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "[https://codepen.io/Keerti-Vishwkarma](https://www.youtube.com/@ST-Library)"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
+<a href = "https://scholar.google.com/citations?user=j7Huca0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>    
+<a href = "https://scholar.google.com/citations?user=j7Huca0AAAAJ&hl=en"><img src="https://img.shields.io/badge/GoogleScholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+<a href = "https://www.researchgate.net/profile/Sivaranjei-Thambipillai"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
+<a href = "https://www.linkedin.com/in/sivaranjei-thambipillai-8ba754243"><img src="https://img.shields.io/badge/LinkedIn-4285F4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://orcid.org/0009-0005-3318-1375"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+<a href = "https://github.com/tsivaranjei"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href = "https://tsivaranj.blogspot.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+<a href = "https://www.facebook.com/sivaranjei.thambipillai/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href = "https://www.instagram.com/sivaranjei-thambipillai/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href = "https://www.youtube.com/@ST-Library"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p><br>
+
 
 ### ❤ Views and Followers
 #### Thanks for checking out my GitHub Profile! 🙏
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 ![](https://img.shields.io/github/followers/tsivaranjei?logo=github&style=for-the-badge)
-<a href="https://github.com/tsivaranjei/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=tsivaranjei&style=for-the-badge">
-</a>
+<a href="https://github.com/tsivaranjei/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=tsivaranjei&style=for-the-badge"></a>
 
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/tsivaranjei/github-profile-views-counter
