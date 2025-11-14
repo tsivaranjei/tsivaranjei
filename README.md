@@ -1,6 +1,7 @@
 ## Hi, I'm Sivaranjei Thambipillai
 MSc in IT, BSc in IT | Systems Analyst | Researcher – University of Colombo, Sri Lanka
 <br>Software Engineering | Computer Science | Database Management | Artificial Intelligence | Project Management | Agile Software Development
+<br>Justice of the Peace (Whole Island), Sri Lanka
 
 ## 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tsivaranjei&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="tsivaranjei"/></p><br>
